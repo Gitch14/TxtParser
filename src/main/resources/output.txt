@@ -1,0 +1,37 @@
+Shape ID: WIyWlLk6GJQsqaUBKTNV-0
+Shape Value: null
+Shape ID: WIyWlLk6GJQsqaUBKTNV-1
+Shape Value: null
+Shape ID: WIyWlLk6GJQsqaUBKTNV-2
+Shape Value: 
+Shape Style: Arrow down
+Shape ID: WIyWlLk6GJQsqaUBKTNV-3
+Shape Value: Lamp doesn't work
+Shape Style: Bloc
+Shape ID: WIyWlLk6GJQsqaUBKTNV-4
+Shape Value: Yes
+Shape Style: Arrow down
+Shape ID: WIyWlLk6GJQsqaUBKTNV-5
+Shape Value: No
+Shape Style: Arrow down
+Shape ID: WIyWlLk6GJQsqaUBKTNV-6
+Shape Value: Lamp<br>plugged in?
+Shape Style: Rhomb
+Shape ID: WIyWlLk6GJQsqaUBKTNV-7
+Shape Value: Plug in lamp
+Shape Style: Bloc
+Shape ID: WIyWlLk6GJQsqaUBKTNV-8
+Shape Value: No
+Shape Style: Arrow down
+Shape ID: WIyWlLk6GJQsqaUBKTNV-9
+Shape Value: Yes
+Shape Style: Arrow down
+Shape ID: WIyWlLk6GJQsqaUBKTNV-10
+Shape Value: Bulb<br>burned out?
+Shape Style: Rhomb
+Shape ID: WIyWlLk6GJQsqaUBKTNV-11
+Shape Value: Repair Lamp
+Shape Style: Bloc
+Shape ID: WIyWlLk6GJQsqaUBKTNV-12
+Shape Value: Replace Bulb
+Shape Style: Bloc
